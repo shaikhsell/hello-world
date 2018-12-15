@@ -1,2 +1,5 @@
 # hello-world
-hey I'm learning python web programming and currently I'm using django for this project. this is my fist GitHub project so don't judge. 
+hey I'm learning python web programming and currently I'm using django for this project. this is my fist GitHub project so don't judge.
+
+
+this is my first Commit.
